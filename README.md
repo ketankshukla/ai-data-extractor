@@ -21,6 +21,8 @@ Paste messy text — an invoice, receipt, or email — and get back clean, struc
 4. `parseExtraction` strips any markdown code fences and safely `JSON.parse`s the response, throwing a clear error if the model didn't return valid JSON.
 5. The UI renders the parsed result as a formatted card plus a collapsible raw-JSON block.
 
+For a full end-to-end technical deep dive — including *why the same code correctly handles invoices, receipts, and emails with no document-specific logic* — see **[HOW_IT_WORKS.md](./HOW_IT_WORKS.md)**.
+
 ### Model configuration
 
 | Env var | Purpose | Default |
