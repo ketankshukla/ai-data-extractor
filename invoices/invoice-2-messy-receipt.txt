@@ -1,0 +1,24 @@
+*** GREENLEAF GROCERY ***
+       123 Elm Ave
+   store #0447 - reg 3
+------------------------------
+06/15/24  2:47 PM
+
+ORGANIC BANANAS      2.14 lb @ 0.79/lb    1.69
+WHOLE MILK 1GAL                           4.29
+SOURDOUGH BREAD                           5.99
+FREE RANGE EGGS DZ                        6.49
+CHEDDAR CHEESE 8OZ                        3.99
+PAPER TOWELS 6PK                          9.49
+
+  subtotal                              31.94
+  sales tax                              2.24
+  ---------------------------------
+  TOTAL                                 34.18
+
+  CASH TEND                             40.00
+  CHANGE DUE                             5.82
+
+  items sold: 6
+  thank you for shopping with us!
+  greenleafgrocery.com

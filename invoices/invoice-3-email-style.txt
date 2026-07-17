@@ -1,0 +1,28 @@
+From: billing@cloudstack-hosting.com
+To: accounts@myawesomestartup.io
+Subject: Your CloudStack Hosting invoice is ready (#CS-88213)
+
+Hi there,
+
+Thanks for being a CloudStack customer! Here's a summary of your latest bill.
+
+Account: myawesomestartup.io
+Billing period: May 1 - May 31, 2024
+Invoice number: CS-88213
+Issued: June 1, 2024
+
+Charges:
+- Compute (4x standard instances) ......... $312.40
+- Object storage (1.2 TB) .................. $27.60
+- Bandwidth overage (300 GB) ................ $15.00
+- Support plan (Pro) ........................ $99.00
+
+Amount before tax: $454.00
+VAT (20%): $90.80
+Total charged to your card ending in 4471: $544.80
+
+Payment was processed automatically on June 2, 2024. No action needed.
+
+Questions? Just reply to this email.
+
+— The CloudStack Billing Team

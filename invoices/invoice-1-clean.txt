@@ -1,0 +1,26 @@
+INVOICE
+
+Northwind Traders LLC
+44 Harbor Street, Seattle, WA 98101
+
+Invoice #: NW-2024-0872
+Invoice Date: 2024-06-12
+Due Date: 2024-07-12
+
+Bill To:
+Sarah Chen
+Chen Consulting
+1200 Market St, San Francisco, CA 94102
+
+Description                         Qty     Unit Price     Amount
+--------------------------------------------------------------------
+Website design services              1      $2,400.00      $2,400.00
+Logo redesign                        1      $600.00        $600.00
+Domain registration (1 yr)           1      $18.00         $18.00
+
+Subtotal:                                                   $3,018.00
+Tax (8.5%):                                                  $256.53
+Total Due:                                                   $3,274.53
+
+Payment terms: Net 30. Please remit payment via bank transfer.
+Thank you for your business!
