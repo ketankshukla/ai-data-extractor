@@ -9,6 +9,7 @@
 🔗 **Live URL:** https://ai-data-extractor-seven.vercel.app/
 
 📚 **Companion docs:**
+- 📖 [`USER_GUIDE.md`](./USER_GUIDE.md) — how to use the app, sample documents to try, and troubleshooting
 - 🧠 [`THOUGHT_PROCESS.md`](./THOUGHT_PROCESS.md) — the full step-by-step reasoning behind how this was built, plus a checklist for starting a project like this from scratch
 - 🔬 [`HOW_IT_WORKS.md`](./HOW_IT_WORKS.md) — end-to-end technical deep dive into the extraction flow
 
